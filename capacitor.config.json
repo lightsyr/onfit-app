@@ -1,0 +1,6 @@
+{
+  "appId": "com.clickinterativo.onfit",
+  "appName": "onfit-app",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
